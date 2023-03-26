@@ -1,0 +1,57 @@
+KNN
+Accuracy Score on Test Set:  0.5245242879092306
+Macro Precision Score on Test Set:  0.4823232508946898
+Macro Recall Score on Test Set:  0.4804030186474188
+Macro F1 Score on Test Set:  0.47442198260223195
+Weighted F1 Score on Test Set:  0.5107503498263664
+
+NB
+Accuracy Score on Test Set:  0.5655359886538234
+Macro Precision Score on Test Set:  0.5235611860248599
+Macro Recall Score on Test Set:  0.5349911000998626
+Macro F1 Score on Test Set:  0.5219531384203846
+Weighted F1 Score on Test Set:  0.5546685381531898
+
+LR
+Accuracy Score on Test Set:  0.5468620730410118
+Macro Precision Score on Test Set:  0.5172096532308287
+Macro Recall Score on Test Set:  0.4860766108026722
+Macro F1 Score on Test Set:  0.48070664200252367
+Weighted F1 Score on Test Set:  0.5262210530849423
+
+LDA
+Accuracy Score on Test Set:  0.48493085923649687
+Macro Precision Score on Test Set:  0.46920149047883924
+Macro Recall Score on Test Set:  0.4429502628266728
+Macro F1 Score on Test Set:  0.43691065048467886
+Weighted F1 Score on Test Set:  0.4701207131825362
+
+SVM
+Accuracy Score on Test Set:  0.5251152346058385
+Macro Precision Score on Test Set:  0.46915448356994405
+Macro Recall Score on Test Set:  0.45128292826045796
+Macro F1 Score on Test Set:  0.4255886046246591
+Weighted F1 Score on Test Set:  0.47940179250078513
+
+RF1
+Selected Final Random Forest Model
+Accuracy Score on Test Set:  0.6585509986999173
+Macro Precision Score on Test Set:  0.6591389561199381
+Macro Recall Score on Test Set:  0.6033285295200613
+Macro F1 Score on Test Set:  0.6099862218479423
+Weighted F1 Score on Test Set:  0.6470935827857177
+
+RF2
+Random Forest Model with Most Important Features
+Accuracy Score on Test Set:  0.6559508332348423
+Macro Precision Score on Test Set:  0.6519171540854666
+Macro Recall Score on Test Set:  0.60003769316847
+Macro F1 Score on Test Set:  0.6065235304296136
+Weighted F1 Score on Test Set:  0.6442489585671958
+
+MLP
+Accuracy Score on Test Set:  0.6553598865382343
+Macro Precision Score on Test Set:  0.6556475288294978
+Macro Recall Score on Test Set:  0.5943057160700594
+Macro F1 Score on Test Set:  0.5996247063330603
+Weighted F1 Score on Test Set:  0.6411816136630489
