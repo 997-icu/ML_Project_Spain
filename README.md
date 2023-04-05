@@ -1,2 +1,2 @@
-# UPC_ML_Project
-UPC Machine Learning Course Project
+# ML_Project_Spain
+Machine Learning Course Project
